@@ -1,4 +1,4 @@
-# 📊 KSA Financial Expense Analysis Dashboard (Excel)
+# 📊 KSA Financial Expense Analysis (MS Excel)
 ### 🎓 Personal Project
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ksa-financial-expense-analysis-excel)
